@@ -1,21 +1,27 @@
-import { StatusBar } from 'expo-status-bar';
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { LogBox, StatusBar } from 'react-native';
+import Header from './components/Header';
+import Navigation from './navigators/Navigation';
+import Toast from 'react-native-toast-message';
+import ShopContextProvider from './context/ShopContext';
 
-export default function App() {
+//Redux
+import store from './redux/store';
+import { Provider } from 'react-redux';
+
+LogBox.ignoreAllLogs(true);
+
+const App = () => {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <ShopContextProvider>
+      <Provider store={store}>
+        <Header />
+        <Navigation />
+        <Toast ref={(ref) => Toast.setRef(ref)} />
+        <StatusBar style='auto' />
+      </Provider>
+    </ShopContextProvider>
   );
-}
+};
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+export default App;

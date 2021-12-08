@@ -10,12 +10,37 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.15.14",
+    "@react-navigation/bottom-tabs": "^6.0.9",
+    "@react-navigation/material-bottom-tabs": "^6.0.9",
+    "@react-navigation/material-top-tabs": "^6.0.6",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "@react-navigation/stack": "^6.0.11",
+    "axios": "^0.24.0",
     "expo": "~43.0.2",
     "expo-status-bar": "~1.1.0",
+    "jwt-decode": "^3.1.2",
+    "native-base": "^2.13.14",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-keyboard-aware-scroll-view": "^0.9.3",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.8.0",
+    "react-native-swipe-list-view": "^3.2.9",
+    "react-native-swiper": "^1.6.0",
+    "react-native-tab-view": "^3.1.1",
+    "react-native-toast-message": "^1.6.0",
+    "react-native-web": "0.17.1",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.4.1",
+    "styled-components": "^5.3.3",
+    "expo-image-picker": "~11.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
