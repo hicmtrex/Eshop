@@ -3,15 +3,15 @@
 ## Tech Stack
 hicmtrex/Eshop is built on the following main stack:
 
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Expo](https://expo.dev/) – Cross-Platform Mobile Development
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [React Native](http://facebook.github.io/) – Cross-Platform Mobile Development
-- [Babel](http://babeljs.io/) – JavaScript Compilers
 - [Redux](https://redux.js.org/) – State Management Library
 - [redux-thunk](https://github.com/gaearon/redux-thunk) – State Management Library
-- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- [Expo](https://expo.dev/) – Cross-Platform Mobile Development
 - [styled-components](https://styled-components.com) – JavaScript Framework Components
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -21,15 +21,15 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 hicmtrex/Eshop is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/5795/default_683a3de22a6983c41f27b04348f4c7380c5e3c21.jpg' alt='Expo'/> [Expo](https://expo.dev/) – Cross-Platform Mobile Development
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/2699/KoK6gHzp.jpg' alt='React Native'/> [React Native](http://facebook.github.io/) – Cross-Platform Mobile Development
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
 - <img width='25' height='25' src='https://img.stackshare.io/service/4074/13142323.png' alt='Redux'/> [Redux](https://redux.js.org/) – State Management Library
 - <img width='25' height='25' src='https://img.stackshare.io/service/5448/13142323.png' alt='redux-thunk'/> [redux-thunk](https://github.com/gaearon/redux-thunk) – State Management Library
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/5795/default_683a3de22a6983c41f27b04348f4c7380c5e3c21.jpg' alt='Expo'/> [Expo](https://expo.dev/) – Cross-Platform Mobile Development
 - <img width='25' height='25' src='https://img.stackshare.io/service/6749/styled-components.png' alt='styled-components'/> [styled-components](https://styled-components.com) – JavaScript Framework Components
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hicmtrex/Eshop](https://github.com/hicmtrex/Eshop)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|19<br/>Tools used|01/05/24 <br/>Report generated|
+|19<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
